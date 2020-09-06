@@ -1,0 +1,23 @@
+.place__pharagraph{
+	margin-left: 10px;
+	margin-top: 28px;
+	max-width: 484px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1232px){
+	.place__pharagraph{
+		max-width: 456px;
+		margin-left: 6px;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 1020px){
+	.place__pharagraph{
+		max-width: 352px;
+	}
+}
+
+@media screen and (min-width: 320px) and (max-width: 766px){
+	.place__pharagraph{
+		margin: 32px 16px 0;
+	}
+}
