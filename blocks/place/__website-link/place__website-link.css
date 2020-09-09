@@ -7,6 +7,5 @@
 
 .place__website-link:hover{
 	transition: opacity 0.3s;
-	color: #fff;
 	opacity: 0.8;
 }

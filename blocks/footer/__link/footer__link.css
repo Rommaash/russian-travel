@@ -1,23 +1,23 @@
-.footer__link{
-	text-decoration: none;
-	color: white;
-	margin-right: 18px;
+.footer__link {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
 	line-height: 18px;
+	text-decoration: none;
+	color: white;
 }
+
+
+
+
 
 @media screen and (min-width: 320px) and (max-width: 766px){
 	.footer__link{
 		max-width: 158px;
 		font-size: 24px;
 		line-height: 24px;
-		margin-bottom: 32px;
-		margin-right: 0;
+		padding-top: 32px;
 	}
 	
-	.footer__link:last-child{
-		margin-bottom: 0;
-	}
+	
 }

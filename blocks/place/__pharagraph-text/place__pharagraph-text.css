@@ -9,14 +9,12 @@
 @media screen and (min-width: 768px) and (max-width: 1020px){
 	.place__pharagraph-text{
 		font-size: 16px;
-		line-height: 163%;
 	}
 }
 
 @media screen and (min-width: 320px) and (max-width: 766px){
 	.place__pharagraph-text{
 		font-size: 16px;
-		line-height: 163%;
 		margin: 0;
 	}
 	.place__pharagraph-text:nth-child(odd){
