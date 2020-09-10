@@ -4,19 +4,19 @@
 	max-width: 484px;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1232px){
+@media screen and (min-width: 1024px) and (max-width: 1279px){
 	.place__pharagraph{
 		max-width: 456px;
 		margin-left: 6px;
 	}
 }
-@media screen and (min-width: 768px) and (max-width: 1020px){
+@media screen and (min-width: 768px) and (max-width: 1023px){
 	.place__pharagraph{
 		max-width: 352px;
 	}
 }
 
-@media screen and (min-width: 320px) and (max-width: 766px){
+@media screen and (min-width: 320px) and (max-width: 767px){
 	.place__pharagraph{
 		margin: 32px 16px 0;
 	}
